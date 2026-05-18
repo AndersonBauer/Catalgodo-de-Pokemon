@@ -66,3 +66,5 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+
+Nomes: Anderson Bauer & João Vitor Daitx
